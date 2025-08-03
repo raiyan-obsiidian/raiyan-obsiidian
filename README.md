@@ -21,7 +21,7 @@ Hey there! I’m a 17-year-old student and self-taught coder from Bangladesh. I 
 
 ---
 
-## 👯 Let’s Collaborate
+## Let’s Collaborate
 
 If you're into fun side projects, making games, or just building weird but useful things, hit me up. I'm always down to learn with others.
 
